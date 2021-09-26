@@ -9,8 +9,8 @@
   I am eager to acquire new experiences, contribute to a focused team and be in an area that provides a better quality of life for me and my family.
 </div>
 <br>
-<div align="center">
-  <h2>What I have using lately</h2>
+<h2 align="center">What I have using lately</h2>
+<div>
   <div align="left">
     <h3>Programing</h3>
     <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-html-5.svg" alt="HTML5">
@@ -19,14 +19,14 @@
   </div>
   <div align="right">  
     <h3>Design</h3>
-    Figma
-    Adobe Illustrator
-    Photoshop
+    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-figma.svg" alt="Figma">
+    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-illustrator.svg" alt="Adobe Illustrator">
+    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-photoshop.svg" alt="Adobe Photoshop">
   </div>
 </div>
 <br>
 <div align="center">
-  <h2>Check out my growth</h2>
+  <h2 align="center">Check out my growth</h2>
   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=huannvictor&show_icons=true&theme=tokyonight">
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huannvictor&layout=compact">
 </div>
