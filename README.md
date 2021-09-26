@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/huannvictor/huannvictor/blob/main/githubReadmePic410x410.png" alt="AVATAR">
+<img align="right" src="https://github.com/huannvictor/huannvictor/blob/main/githubReadmePic410x410.png" alt="AVATAR">
 
 # Huann Almeida 
 
