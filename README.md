@@ -1,3 +1,4 @@
+![AVATAR](https://github.com/huannvictor/huannvictor/blob/main/githubReadmePic.png)
 # Huann Almeida 
 
 I'm looking for a change in my professional field. I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery. I always liked the administrative area, but it doesn't challenge me as it had done once.
