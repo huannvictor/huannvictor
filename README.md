@@ -13,9 +13,9 @@
   <h2>What I have using lately</h2>
   <div align="left">
     <h3>Programing</h3>
-    <img height="115em" align="left" src="https://img.icons8.com/dusk/50/000000/html-5.png" alt="HTML5">
-    CSS
-    Javascript
+    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-html-5.svg" alt="HTML5">
+    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-css3.svg" alt="CSS">
+    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-javascript-logo.svg" alt="Javascript">
   </div>
   <div align="right">  
     <h3>Design</h3>
@@ -27,8 +27,8 @@
 <br>
 <div align="center">
   <h2>Check out my growth</h2>
-  <img align="left" height="185em" src="https://github-readme-stats.vercel.app/api?username=huannvictor&show_icons=true&theme=tokyonight">
-  <img align="right" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huannvictor&layout=compact">
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=huannvictor&show_icons=true&theme=tokyonight">
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huannvictor&layout=compact">
 </div>
 <br>
 <br>
