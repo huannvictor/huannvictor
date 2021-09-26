@@ -49,6 +49,9 @@
   <a href="mailto:huannvictor@gmail.com">
     <img src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-gmail-logo.svg" heigth="50" e width="60">
   </a>
+  <a href="https://www.behance.net/huannvictor">
+    <img src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-behance.svg" heigth="50" e width="60">
+  </a>
 </div>
 <div>
   <h2 align="center"> A little more about me:</h2>
