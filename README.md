@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/huannvictor/huannvictor/blob/main/githubReadmePic410x410.png" alt="AVATAR">
+<h1 align="center"> Huann Almeida </h1>
 
-# Huann Almeida 
+<img width="300px" heigth="300px" align="right" src="https://github.com/huannvictor/huannvictor/blob/main/githubReadmePic410x410.png" alt="AVATAR">
 
 I'm looking for a change in my professional field. I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery. I always liked the administrative area, but it doesn't challenge me as it had done once.
 
@@ -10,9 +10,11 @@ I am eager to acquire new experiences, contribute to a focused team and be in an
 
 #WebDeveloper #FrontEnd #Developer
 
+<h3> Find-me:</h3>
+<div width="350px" hight="350px" background-color="white"></div>
+              
 <br>
-
-## A little more about me:
+<h2 align="center"> A little more about me:</h2>
 I'm a guy who likes to work listening to music, drinking coffee and preferably with direct sunlight (a luxury I enjoy nowadays).
 I'm a geek, I try to be fitness, but I love pasta and sweets (and they love me too).
 I like to work with people or remotely (as long as I'll always have someone for happy hour even if it's on the webcam hahaha).
