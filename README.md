@@ -11,12 +11,18 @@
 <br>
 <div align="center">
   <h2>What I have using lately</h2>
-  HTML5
-  CSS
-  Javascript
-  Figma
-  Adobe Illustrator
-  Photoshop
+  <div align="left">
+    <h3>Programing</h3>
+    <img height="115em" align="left" src="https://img.icons8.com/dusk/50/000000/html-5.png" alt="HTML5">
+    CSS
+    Javascript
+  </div>
+  <div align="right">  
+    <h3>Design</h3>
+    Figma
+    Adobe Illustrator
+    Photoshop
+  </div>
 </div>
 <br>
 <div align="center">
