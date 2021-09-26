@@ -8,36 +8,31 @@
 
   I am eager to acquire new experiences, contribute to a focused team and be in an area that provides a better quality of life for me and my family.
 </div>
-<br>
+<br><br><br>
 <h2 align="center">What I have using lately</h2>
-<div>
-  <div align="left">
-    <h3>Programing</h3>
-    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-html-5.svg" alt="HTML5">
-    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-css3.svg" alt="CSS">
-    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-javascript-logo.svg" alt="Javascript">
-  </div>
-  <div align="right">  
-    <h3>Design</h3>
-    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-figma.svg" alt="Figma">
-    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-illustrator.svg" alt="Adobe Illustrator">
-    <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-photoshop.svg" alt="Adobe Photoshop">
-  </div>
-</div>
+<table align="center">
+        <th>Programing</th>
+        <th>Designing</th>
+    <tr>
+      <td>
+        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-html-5.svg" alt="HTML5">
+        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-css3.svg" alt="CSS">
+        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-javascript-logo.svg" alt="Javascript">
+      </td>
+      <td>
+        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-figma.svg" alt="Figma">
+        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-illustrator.svg" alt="Adobe Illustrator">
+        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-photoshop.svg" alt="Adobe Photoshop">
+      </td>
+    </tr>
+</table>
 <br>
-<div align="center">
   <h2 align="center">Check out my growth</h2>
+<div>
   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=huannvictor&show_icons=true&theme=tokyonight">
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huannvictor&layout=compact">
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
 <div align="center">
   <h2 align="center"> Find-me:</h2>
   <a href="https://www.linkedin.com/in/huannalmeida/">
