@@ -2,9 +2,11 @@
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
   <img height="250em" align="right" src="https://github.com/huannvictor/huannvictor/blob/main/assets/avatar.png" alt="AVATAR">
 
-  I'm looking for a change in my professional field. I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery. I always liked the administrative area, but it doesn't challenge me as it had done once.
+  I'm looking for a change in my professional field. I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery.
+  
+  I always liked the administrative area, but it doesn't challenge me as it had done once.
 
-  After researching for over a year, also listening to close friends, I saw that the Web Development area is a great starting point for this change. I can say that I amo falling in love with "code".
+  After researching for over a year and also listening to close friends, I saw the Web Development area is a great starting point for this change. I can say that I'm falling in love with coding.
 
   I am eager to acquire new experiences, contribute to a focused team and be in an area that provides a better quality of life for me and my family.
 </div>
