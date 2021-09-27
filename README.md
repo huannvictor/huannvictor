@@ -31,8 +31,8 @@
 <br>
   <h2 align="center">Check out my growth</h2>
 <div>
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=huannvictor&show_icons=true&theme=tokyonight">
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huannvictor&layout=compact">
+  <img align="left" width="400em" src="https://github-readme-stats.vercel.app/api?username=huannvictor&show_icons=true&theme=tokyonight">
+  <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huannvictor&layout=compact">
 </div>
 <br><br><br><br><br><br><br><br>
 <div align="center">
