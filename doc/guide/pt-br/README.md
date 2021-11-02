@@ -1,21 +1,21 @@
-[pt-BR](./doc/guide/pt-br/README.md)  
+[en](./README.md)  
 
 <div>
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
   <img height="185em" align="right" src="https://github.com/huannvictor/huannvictor/blob/main/assets/avatar.png" alt="AVATAR">
 
-  I'm looking for a change in my professional field. I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery.
+  Procuro uma mudança no meu campo profissional. Quero trabalhar com algo que tenha mais a ver comigo. A programação tem sido uma descoberta desafiadora e instigante.
   
-  I always liked the administrative area, but it doesn't challenge me as it had done once.
+  Sempre gostei da área administrativa, mas não me desafia como antes.
 
-  After researching for over a year and also listening to close friends, I saw the Web Development area is a great starting point for this change. I can say that I'm falling in love with coding.
+  Depois de pesquisar por mais de um ano e também ouvir amigos próximos, percebi que a área de Desenvolvimento Web é um ótimo ponto de partida para essa mudança. Posso dizer que estou me apaixonando por codificação.
 
-  I am eager to acquire new experiences, contribute to a focused team and be in an area that provides a better quality of life for me and my family.
+  Tenho vontade de adquirir novas experiências, contribuir com uma equipe focada e estar em uma área que proporcione uma melhor qualidade de vida para mim e minha família.
 </div>
 <br><br><br>
-<h2 align="center">What I have using lately</h2>
+<h2 align="center">O que tenho usado ultimatente</h2>
 <table align="center">
-        <th>Programing</th>
+        <th>Programação</th>
         <th>Designing</th>
     <tr>
       <td>
@@ -31,7 +31,7 @@
     </tr>
 </table>
 <br>
-  <h2 align="center">Check out my growth</h2>
+  <h2 align="center">Veja meu crescimento</h2>
 <div>
   <img align="left" width="400em" src="https://github-readme-stats.vercel.app/api?username=huannvictor&show_icons=true&theme=tokyonight">
   <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huannvictor&layout=compact">
@@ -56,13 +56,13 @@
   </a>
 </div>
 <div>
-  <h2 align="center"> A little more about me:</h2>
+  <h2 align="center"> Um pouco mais a meu respeito:</h2>
   <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/business-3d-318.png" alt="businessInLove">
 
-  I'm a guy who likes to work listening to music, drinking coffee and preferably with direct sunlight (a luxury I enjoy nowadays).
-  I'm a geek, I try to be fitness, but I love pasta and sweets (and they love me too 😁).
-  I like to work both with people or remotely (as long as I'll always have someone for happy hour even if it's on the webcam 😜).
+  Sou um cara que gosta de trabalhar ouvindo música, tomando café e de preferência com luz direta do sol (um luxo que gosto hoje em dia).
+  Sou geek, procuro me exercitar, mas adoro massas e doces (e eles me amam também 😁).
+  Gosto de trabalhar tanto com pessoas quanto remotamente (desde que sempre tenha alguém para happy hour mesmo que seja pela webcam 😜).
 
-  I would love to make new connections within this area to exchange experiences and maybe work opportunities.
+  Eu adoraria fazer novas conexões dentro desta área para trocar experiências e talvez oportunidades de trabalho.
   
 </div>
