@@ -1,4 +1,4 @@
-[en](./README.md)  
+[en](/README.md)  
 
 <div>
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
