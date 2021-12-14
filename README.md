@@ -15,18 +15,22 @@
 <br><br><br>
 <h2 align="center">What I have using lately</h2>
 <table align="center">
-        <th>Programing</th>
-        <th>Designing</th>
-    <tr>
-      <td>
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-html-5.svg" alt="HTML5">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-css3.svg" alt="CSS">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-javascript-logo.svg" alt="Javascript">
+    <th>Programing</th>
+    <tr align="center">
+      <td align="center">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/html-5.svg" alt="HTML5">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/css3.svg" alt="CSS">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/javascript.svg" alt="Javascript">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/react.svg" alt="React">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/nodejs.svg" alt="Nodejs">
       </td>
-      <td>
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-figma.svg" alt="Figma">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-illustrator.svg" alt="Adobe Illustrator">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-photoshop.svg" alt="Adobe Photoshop">
+    </tr>
+    <th>Designing</th>
+    <tr align="center">
+      <td align="center">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-figma.svg" alt="Figma">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-illustrator.svg" alt="Adobe Illustrator">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-photoshop.svg" alt="Adobe Photoshop">
       </td>
     </tr>
 </table>
