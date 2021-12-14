@@ -22,7 +22,7 @@
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/css3.svg" alt="CSS">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/javascript.svg" alt="Javascript">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/react.svg" alt="React">
-        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/nodejs.svg" alt="Nodejs">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/node.svg" alt="Nodejs">
       </td>
     </tr>
     <th>Designing</th>
