@@ -4,7 +4,7 @@
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
   <img height="185em" align="right" src="https://github.com/huannvictor/huannvictor/blob/main/assets/avatar.png" alt="AVATAR">
 
-  I'm looking for a change in my professional field. I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery.
+  I'm looking for a change in my professional field. Leaving the Management area, I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery.
   
   I always liked the administrative area, but it doesn't challenge me as it had done once.
 
