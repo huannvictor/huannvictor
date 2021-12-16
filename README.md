@@ -21,6 +21,7 @@
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/html-5.svg" alt="HTML5">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/css3.svg" alt="CSS">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/javascript.svg" alt="Javascript">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/typescript.svg" alt="Typescript">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/react.svg" alt="React">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/node.svg" alt="Nodejs">
       </td>
