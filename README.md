@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
-  <img height="185em" align="right" src="https://github.com/huannvictor/huannvictor/blob/main/assets/avatar.png" alt="AVATAR">
+  <img height="200em" align="right" src="https://raw.githubusercontent.com/huannvictor/huannvictor/main/assets/caracter1.png" alt="AVATAR">
 
   I'm looking for a change in my professional field. Leaving the Management area, I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery.
   
@@ -62,7 +62,7 @@
 </div>
 <div>
   <h2 align="center"> A little more about me:</h2>
-  <img height="115em" align="left" src="https://github.com/huannvictor/huannvictor/blob/main/assets/business-3d-318.png" alt="businessInLove">
+  <img height="200em" align="left" src="https://raw.githubusercontent.com/huannvictor/huannvictor/main/assets/caracter2.png" alt="businessInLove">
 
   I'm a guy who likes to work listening to music, drinking coffee and preferably with direct sunlight (a luxury I enjoy nowadays).
   I'm a geek, I try to be fitness, but I love pasta and sweets (and they love me too 😁).
