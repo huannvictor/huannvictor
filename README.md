@@ -1,4 +1,4 @@
-[pt-BR](./doc/guide/pt-br/README.md)  
+[pt-BR](./doc/guide/pt-br/README.md)
 
 <div>
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
@@ -20,6 +20,7 @@
       <td align="center">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/html-5.svg" alt="HTML5">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/css3.svg" alt="CSS">
+        <img height="85em" src="https://raw.githubusercontent.com/huannvictor/huannvictor/main/assets/sass-logo.svg" alt="Sass">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/javascript.svg" alt="Javascript">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/typescript.svg" alt="Typescript">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/react.svg" alt="React">
