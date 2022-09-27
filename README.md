@@ -2,7 +2,6 @@
 
 <div>
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
-  <img height="200em" align="right" src="https://raw.githubusercontent.com/huannvictor/huannvictor/main/assets/caracter1.png" alt="AVATAR">
 
   I'm looking for a change in my professional field. Leaving the Management area, I want to work with something that has more to do with me. Programming has been a challenging and thought-provoking discovery.
   
