@@ -17,14 +17,16 @@
     <th>Programing</th>
     <tr align="center">
       <td align="center">
-        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/html-5.svg" alt="HTML5">
-        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/css3.svg" alt="CSS">
-        <img height="85em" src="https://raw.githubusercontent.com/huannvictor/huannvictor/main/assets/sass-logo.svg" alt="Sass">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/javascript.svg" alt="Javascript">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/typescript.svg" alt="Typescript">
-        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/angular-logo.svg" alt="Angular">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/react.svg" alt="React">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/logoNextJS.svg" alt="NextJS">
         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/node.svg" alt="Nodejs">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/angular-logo.svg" alt="Angular">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/logoTailwindCSS.svg" alt="TailsindCSS">
+        <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/sass-logo.svg" alt="Sass">
+<!--         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/html-5.svg" alt="HTML5"> -->
+<!--         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/css3.svg" alt="CSS"> -->
       </td>
     </tr>
     <th>Designing</th>
