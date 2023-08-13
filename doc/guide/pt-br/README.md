@@ -2,8 +2,6 @@
 
 <div>
   <h1 align="center"> Huann Almeida <br> Front-end Developer</h1>
-  <img height="185em" align="right" src="https://github.com/huannvictor/huannvictor/blob/main/assets/avatar.png" alt="AVATAR">
-
   Procuro uma mudança no meu campo profissional. Quero trabalhar com algo que tenha mais a ver comigo. A programação tem sido uma descoberta desafiadora e instigante.
   
   Sempre gostei da área administrativa, mas não me desafia como antes.
@@ -15,20 +13,29 @@
 <br><br><br>
 <h2 align="center">O que tenho usado ultimatente</h2>
 <table align="center">
-        <th>Programação</th>
-        <th>Designing</th>
-    <tr>
-      <td>
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-html-5.svg" alt="HTML5">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-css3.svg" alt="CSS">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-javascript-logo.svg" alt="Javascript">
-      </td>
-      <td>
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-figma.svg" alt="Figma">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-illustrator.svg" alt="Adobe Illustrator">
-        <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-photoshop.svg" alt="Adobe Photoshop">
-      </td>
-    </tr>
+  <th>Programação</th>
+  <tr>
+    <td align="center">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/javascript.svg" alt="Javascript">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/typescript.svg" alt="Typescript">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/react.svg" alt="React">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/logoNextJS.svg" alt="NextJS">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/node.svg" alt="Nodejs">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/angular-logo.svg" alt="Angular">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/logoTailwindCSS.svg" alt="TailsindCSS">
+      <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/sass-logo.svg" alt="Sass">
+<!--         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/html-5.svg" alt="HTML5"> -->
+<!--         <img height="85em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/css3.svg" alt="CSS"> -->
+    </td>
+  </tr>
+<th>Designing</th>
+  <tr>
+    <td align="center">
+      <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-figma.svg" alt="Figma">
+      <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-illustrator.svg" alt="Adobe Illustrator">
+      <img height="115em" src="https://github.com/huannvictor/huannvictor/blob/main/assets/icons8-adobe-photoshop.svg" alt="Adobe Photoshop">
+    </td>
+  </tr>
 </table>
 <br>
   <h2 align="center">Veja meu crescimento</h2>
